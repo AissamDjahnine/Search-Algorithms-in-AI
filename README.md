@@ -31,36 +31,23 @@ Searching is the universal technique of problem solving in AI. this project will
 
 **Functions Provided :** 
    * You find different functions to create the scenario and display the path estimated withing the search functions ( No modify needed however You're free to add some features ) : 
-       - [CreateScenario](),[DisplayScenario]() : Create the scenario as a map. see figure
+       - [CreateScenario](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/CreateScenario.m),[DisplayScenario](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/DisplayScenario.m) : Create the scenario as a map.We first select the **TARGET** node, then the **Obstacles** ( follow instructions ) and finely the **START** node .See figure
        
        
-       
-       
+Target Node        |    Obstacles         |      Start Node        
+:-----------------:|:--------------------:|:-------------------:
+<img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/target.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/obstacle.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/start.jpg" width="250">
 
-      - [AnimatePath]() : Display the founded path on the scenario
-      - [Matrix2List]() : Converts an incident matrix to an incident list
-      - [IncidentMatrix]() : This function creates the incident matrix based on the scneario defined on the graphical interface form script main.m 
-      [IncidentList]() : This function creates the incident List based on the scneario defined on the graphical interface form script main.m
-      - [IncidentMatrix2]() , [IncidentList2]() :same functions as above but uses irregular costs , check [update_nodes]().
+ - [AnimatePath](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/AnimatePath.m) : Display the founded path on the scenario
+ - [Matrix2List](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Matrix2List.m) : Converts an incident matrix to an incident list
+ - [IncidentMatrix](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/IncidentMatrix.m) : This function creates the incident matrix based on the scneario defined on the graphical interface form script main.m
+ - [IncidentList](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/IncidentList.m) : This function creates the incident List based on the scneario defined on the graphical interface form script main.m
+ - [IncidentMatrix2](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/IncidentMatrix2.m) , [IncidentList2](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/IncidentList2.m) :same functions as above but uses irregular costs , check [update_nodes](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Updates_Nodes.m).
       
-      
-   * 
            
 ## Execution & tests
                       
 ## Test & Results :
-
-**FLower color Transfer :**
-
-Target         |  Source          |      Result        
-:-------------:|:----------------:|:-------------------:
-<img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/target.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/source.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/result.jpg" width="250">
-
-**Autumn House color Transfer :**
-
-Target         |  Source          |      Result        
-:-------------:|:----------------:|:-------------------:
-<img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/target_1.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/source_1.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/ColorTransfer/blob/master/result_1.jpg" width="250">
 
 ## Documentation & ressources :
 
