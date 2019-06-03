@@ -31,8 +31,13 @@ Searching is the universal technique of problem solving in AI. this project will
 
 **Functions Provided :** 
    * You find different functions to create the scenario and display the path estimated withing the search functions ( No modify needed however You're free to add some features ) : 
-      - [AnimatePath]() : Display on the scenario
-      - [CreateScenario](),[DisplayScenario]() : 
+       - [CreateScenario](),[DisplayScenario]() : Create the scenario as a map. see figure
+       
+       
+       
+       
+
+      - [AnimatePath]() : Display the founded path on the scenario
       - [Matrix2List]() : Converts an incident matrix to an incident list
       - [IncidentMatrix]() : This function creates the incident matrix based on the scneario defined on the graphical interface form script main.m 
       [IncidentList]() : This function creates the incident List based on the scneario defined on the graphical interface form script main.m
