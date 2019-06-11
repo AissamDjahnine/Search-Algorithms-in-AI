@@ -45,9 +45,11 @@ Target Node        |    Obstacles         |      Start Node
  - [IncidentMatrix2](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/IncidentMatrix2.m) , [IncidentList2](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/IncidentList2.m) :same functions as above but uses irregular costs , check [update_nodes](https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Updates_Nodes.m).
       
            
-## Execution & tests
-                      
-## Test & Results :
+## Execution & tests : 
+
+BFS       | DFS    |  A* (Euclidian distance) | A* (Manhattan distance) | A*(Variable Cost)            
+:--------:|:------:|:------------------------:|:-----------------------:|:----------------:
+<img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/BFS.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/DFS.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Astareuc.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Astarmann.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Astarvariab.jpg" width="250">  
 
 ## Documentation & ressources :
 
