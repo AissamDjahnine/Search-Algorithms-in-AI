@@ -46,12 +46,16 @@ Target Node        |    Obstacles         |      Start Node
       
            
 ## Execution & tests : 
+   In the figure below , you find an examlpe of the different algorithms : BFS,DFS,A*( euclidian distance , manhattan distance and Variable Costs ) .
+
+Test the code with your own positions of the : target,Start and obsctacles nodes .
+
 
 BFS       | DFS    |  A* (Euclidian distance) | A* (Manhattan distance) | A*(Variable Cost)            
 :--------:|:------:|:------------------------:|:-----------------------:|:----------------:
 <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/BFS.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/DFS.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Astareuc.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Astarmann.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Astarvariab.jpg" width="250">  
 
-## Documentation & ressources :
+**Codes and simulations in Python will be provided soon**
 
 
 ## Authors
