@@ -1,4 +1,4 @@
-## Search-Algorithms-in-AI
+## Search-Algorithms-in-AI <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Matlab_Logo.png" width="25">
 
 Searching is the universal technique of problem solving in AI. this project will give you a start with these different algorithms : 
 - **Brute-Force Search Strategies**
