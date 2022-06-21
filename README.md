@@ -55,19 +55,5 @@ BFS       | DFS    |  A* (Euclidian distance) | A* (Manhattan distance) |
 :--------:|:------:|:------------------------:|:-----------------------:|
 <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./BFS.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./DFS.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Astareuc.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Astarmann.jpg" width="250"> |
 
-**Codes and simulations in Python will be provided soon**
-
-
-## Authors
-
-**Djahnine Aissam**  
-- [Github Profile](https://github.com/AissamDjahnine)
-- [Linkedin Profile](https://www.linkedin.com/in/aissamdjahnine/)
-
-
 ## Acknowledgments
-
 * Part of this job was supported by : Valentin Marcel  :thumbsup:
-
-
-
