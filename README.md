@@ -51,9 +51,9 @@ Target Node        |    Obstacles         |      Start Node
 Test the code with your own positions of the : target,Start and obsctacles nodes .
 
 
-BFS       | DFS    |  A* (Euclidian distance) | A* (Manhattan distance) | A*(Variable Cost)            
-:--------:|:------:|:------------------------:|:-----------------------:|:----------------:
-<img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./BFS.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./DFS.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Astareuc.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Astarmann.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/Astarvariab.jpg" width="250">  
+BFS       | DFS    |  A* (Euclidian distance) | A* (Manhattan distance) |          
+:--------:|:------:|:------------------------:|:-----------------------:|
+<img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./BFS.jpg" width="250"> |  <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./DFS.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Astareuc.jpg" width="250"> | <img src="https://github.com/AissamDjahnine/Search-Algorithms-in-AI/blob/master/files./Astarmann.jpg" width="250"> |
 
 **Codes and simulations in Python will be provided soon**
 
